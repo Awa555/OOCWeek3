@@ -13,7 +13,8 @@ public class NewClass {
     
     public NewClass(){
     
-            System.out.println("Old Class");
+        System.out.println("Old Class");
+        
      
     }
     
